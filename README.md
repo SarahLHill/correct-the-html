@@ -1,3 +1,4 @@
+
 # Introduction to Programming Exercise - Correct the HTML
 
 ## Overview
@@ -14,6 +15,7 @@ Before you begin, ensure you have the following installed:
 - **Git:** Version control system to clone and manage the repository.
 - **GitHub:** make sure you have an account to sync your repositories to.
 - **Code Editor:** Any code editor like [Visual Studio Code](https://code.visualstudio.com/)
+
 
 ### Cloning the Repository
 
